@@ -1,0 +1,19 @@
+{
+  "name": "Utsav Portfolio",
+  "short_name": "UTSAV",
+  "theme_color": "#fff",
+  "background_color": "#000000",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/profile.png",
+      "sizes": "320x320",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
