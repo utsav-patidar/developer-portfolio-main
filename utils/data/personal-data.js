@@ -8,12 +8,12 @@ export const personalData = {
   phone: "+919316755695",
   address: "Vastral Ahmedabad",
   github: "https://github.com/utsavPatidar9316",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
+  // facebook: "https://www.facebook.com/abusaid.riyaz/",
   linkedIn: "https://www.linkedin.com/in/utsav-patel-1b64bb253",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  // twitter: "https://twitter.com/said7388",
+  // stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
+  // leetcode: "https://leetcode.com/said3812/",
+  // devUsername: "said7388",
   resume:
     "https://drive.google.com/file/d/1dpQXgmyqyRGQ5iZ2GMLip1th4AphH1tR/view?usp=sharing",
 };
