@@ -7,7 +7,7 @@ function Navbar() {
       <div className="flex items-center justify-between py-5">
         <div className="flex flex-shrink-0 items-center">
           <Link href="/" className=" text-[#16f2b3] text-3xl font-bold">
-            utsav patel
+            UTSAV PATEL
           </Link>
         </div>
 
@@ -55,7 +55,7 @@ function Navbar() {
               </div>
             </Link>
           </li>
-          <li>
+          {/* <li>
             <Link
               className="block px-4 py-2 no-underline outline-none hover:no-underline"
               href="/blog"
@@ -64,7 +64,7 @@ function Navbar() {
                 BLOGS
               </div>
             </Link>
-          </li>
+          </li> */}
           <li>
             <Link
               className="block px-4 py-2 no-underline outline-none hover:no-underline"
